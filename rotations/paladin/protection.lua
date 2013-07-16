@@ -28,4 +28,4 @@ ProbablyEngine.rotation.register(66, {
   }
 )
 
- -- { "Avenging Wrath", "cooldowns" },
+ -- { "Avenging Wrath", "cooldowns" },  
