@@ -28,4 +28,9 @@ ProbablyEngine.rotation.register(66, {
   }
 )
 
+<<<<<<< HEAD
  -- { "Avenging Wrath", "cooldowns" },  
+=======
+ -- { "Avenging Wrath", "cooldowns" }, Not a cd
+ 
+>>>>>>> 9a3aaa7e0ea3ad3b511cafcbe594e685356000c3
